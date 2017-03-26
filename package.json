@@ -1,0 +1,25 @@
+{
+  "name": "park",
+  "version": "1.0.0",
+  "description": "good",
+  "main": "server.js",
+  "dependencies": {
+    "express": "*",
+    "ejs": "*",
+    "socket.io": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "park",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "non"
+  },
+  "keywords": [
+    "myhome"
+  ]
+}
